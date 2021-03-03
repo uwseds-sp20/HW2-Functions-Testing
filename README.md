@@ -16,4 +16,4 @@ The function should hold True if the following conditions hold:
 1. Provide a screenshot (.png) of successfully running the tests.
 
 ---
-*Need help? Find us on Slack, during our [office hours](http://uwseds.github.io/), or via e-mail*. 
+*Need help? Find us on Slack, during our [office hours](http://uwseds.github.io/),
